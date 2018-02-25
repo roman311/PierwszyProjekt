@@ -8,7 +8,6 @@ public class Hello {
 		
 		Osoba druga = WczytajOsobe.nowaOsoba();
 		System.out.println("Druga osoba to:" + druga);
-
 	}
 
 }
